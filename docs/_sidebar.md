@@ -2,5 +2,5 @@
 * 深度学习
   * [Pytorch](/DeepLearning/Pytorch/README.md)
   * [基础知识](/DeepLearning/Pytorch/basic.md)
-  * [Test](/DeepLearning/Pytorch/简介.md)
+  * [Test](/DeepLearning/Pytorch/test.md)
 
