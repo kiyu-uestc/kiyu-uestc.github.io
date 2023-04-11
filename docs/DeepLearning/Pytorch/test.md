@@ -1,5 +1,8 @@
+---
 mathjax: false
 katex: true
+---
+
 # sotfmax回归
 softmax回归用于分类问题，预测离散值。softmax的输出单元是多个，且引入了softmax运算使输出更适合离散值的预测和训练。
 ## 分类问题
